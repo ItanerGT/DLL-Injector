@@ -1,4 +1,4 @@
 [Rr]elease/
 .vs/
-*.vcxproj
-*.sln
+!*.vcxproj
+!*.sln
