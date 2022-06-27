@@ -1,4 +1,3 @@
-release/
+[Rr]elease/
 .vs/
-.sln
-.vcxproj
+*.vcxproj
